@@ -1,7 +1,7 @@
 # Hi, I'm Marcus Hilario  
 ## A software engineer in the making with interests in full-stack development, robotics, graphic design, game development, and community service  
 
-Based both in _New Jersey, United States_ and _Metro Manila, Philippines_  
+Based both in the US and Philippines
 Currently an IT intern at [Libra Law](https://www.libralaw.ph/), PR Manager for NJIT Honors Council, Webmaster for [NJIT Robotics Club](https://www.roboticsclub.njit.edu/)  
 
 ### Some of my coding projects    
