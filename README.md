@@ -1,7 +1,7 @@
 # Hi, I'm Marcus Hilario  
 ## A software engineer in the making with interests in game development, robotics, graphic design, and community service  
 
-Based both in _New Jersey, United States_ and _Metro Manila, Philippines_ 
+Based both in _New Jersey, United States_ and _Metro Manila, Philippines_  
 Currently an IT intern at [Libra Law](https://www.libralaw.ph/), architecting a file management system using Network-Attached Storage (NAS) cloud systems.  
 
 ### Some of my coding projects    
