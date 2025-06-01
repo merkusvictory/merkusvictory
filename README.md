@@ -2,8 +2,7 @@
 ## A software engineer in the making with interests in game development, robotics, graphic design, and community service  
 
 Based both in _New Jersey, United States_ and _Metro Manila, Philippines_  
-Currently an IT intern at [Libra Law](https://www.libralaw.ph/), architecting a file management system using Network-Attached Storage (NAS) cloud systems  
-Also PR Manager for NJIT Honors Council, Webmaster for Robotics Club  
+Currently an IT intern at [Libra Law](https://www.libralaw.ph/), PR Manager for NJIT Honors Council, Webmaster for [NJIT Robotics Club](https://www.roboticsclub.njit.edu/)  
 
 ### Some of my coding projects    
 - 🍽️ where2eat - currently learning the skills and technology needed to create a group-based restaurant recommendation web app to start development in Summer 2025  
