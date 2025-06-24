@@ -2,7 +2,6 @@
 ## A software engineer in the making with interests in full-stack development, robotics, graphic design, game development, and community service  
 
 Based both in the US and Philippines  
-Currently an IT intern at [Libra Law](https://www.libralaw.ph/), PR Manager for NJIT Honors Council, Webmaster for [NJIT Robotics Club](https://www.roboticsclub.njit.edu/)  
 
 ### Some of my coding projects    
 - 🍽️ where2eat - currently learning the skills and technology needed to create a group-based restaurant recommendation web app to start development in Summer 2025  
