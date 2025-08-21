@@ -4,7 +4,7 @@
 Based both in the US and Philippines  
 
 ### Some of my coding projects    
-- 🍽️ where2eat - currently learning the skills and technology needed to create a group-based restaurant recommendation web app to start development in Summer 2025  
+- 🟥 [blobtopia](https://blobtopia.marcushilario.com) - a social media site for blob-posting including custom avatars   
 - 🥊 [SteamPunch](https://devpost.com/software/steampunch) - A 2D platformer fighting game my hackathon group made in 24 hours with a custom built controller using an arduino uno R3 with an ultrasonic sensor and joy stick for input, won Best First Year Hack at HackNJIT 2024  
 - 📕 [Bookstore Inventory Management System](https://web.njit.edu/~mth42/IT202/mth42-IT202-Project/website/) - full-stack inventory management system for an online bookstore made for an Internet Applications course  
 - 🔫 [Discord Sniper Bot](https://github.com/merkusvictory/sniperbot) - tracks stats for an IRL game my college friends play called "sniping", where you take secret photos of each other around campus to score points, new game modes to be added soon  
